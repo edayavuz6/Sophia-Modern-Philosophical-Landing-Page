@@ -1,5 +1,5 @@
 Sophia - Modern Philosophical Landing Page
-Sophia is a minimalist and aesthetic landing page designed to showcase a philosophical gallery. This project focuses on modern UI/UX principles, featuring smooth 3D animations and a fully responsive layout.
+Sophia is a minimalist and aesthetic landing page designed to showcase a philosophical gallery. This project focuses on modern UI/UX principles, featuring smooth 3D animations and a fully responsive layout
 
 💎 LİVE DEMO - https://edayavuz6.github.io/Modern-Landing-Page/
 
